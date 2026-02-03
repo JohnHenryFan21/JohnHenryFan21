@@ -48,6 +48,6 @@ Actively building labs and tooling alongside coursework
 
 🚀 Outside the Code
 
-I’m also interested in fitness, personal optimization, and creative side projects. I enjoy building systems whether that’s code, workflows, or life routines that make progress measurable and sustainable.
+I’m also interested in fitness, personal optimization, and creative side projects and personal finance. I enjoy building systems whether that’s code, workflows, or life routines that make progress measurable and sustainable.
 
 If you’re a recruiter or engineer looking for someone who blends discipline, curiosity, and execution, you’re in the right place.
